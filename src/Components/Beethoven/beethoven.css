@@ -1,0 +1,7 @@
+@media screen and (max-width: 500px) {
+    .beethoven {
+        position: absolute;
+        width: 57vw;
+        top: 14vh;
+    }
+}

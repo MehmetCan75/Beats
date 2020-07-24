@@ -1,0 +1,49 @@
+.contact {
+    height: 91.6vh;
+    background-image: url('../../contact.jpg');
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -2vh;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.linkedin {
+    width: 15%;
+    height: 20vh;
+    margin-left: 5vw;
+    margin-top: 5vh;
+    background-image: url('./Pictures//logo-LinkedIn.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: transparent;
+}
+
+.github {
+    width: 15%;
+    height: 20vh;
+    margin-left: 5vw;
+    background-image: url('./Pictures//github.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: transparent;
+}
+
+.gmail {
+    width: 15%;
+    height: 20vh;
+    margin-left: 5vw;
+    background-image: url('./Pictures//gmail.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: transparent;
+}
+
+@media screen and (max-width: 500px) {
+    .linkedin {
+        margin-top: 15vh;
+    }
+}

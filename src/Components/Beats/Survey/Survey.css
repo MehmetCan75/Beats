@@ -1,0 +1,30 @@
+.favorite {
+    background-color: black;
+    color: white;
+    margin-bottom: -2.8vh;
+}
+
+.form {
+    margin-bottom: -1vh;
+}
+
+.options {
+    height: 5vh;
+    border: 2px solid white;
+    border-radius: 4px;
+    margin-bottom: 1vh;
+    margin-right: 1vw;
+    outline: 0;
+    text-align-last: center ;
+}
+
+input {
+    height: 4vh;
+    background-color: rgb(0, 89, 255);
+    border-radius: 4px;
+}
+
+.Merci {
+    font-size: 30px;
+    font-weight: bold;
+}

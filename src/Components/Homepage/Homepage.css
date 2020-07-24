@@ -1,0 +1,98 @@
+.hp {
+    background-image: url('../../photo-1459233313842-cd392ee2c388.jpeg');
+    background-size: cover;
+    background-position: center;
+    height:91.6vh;
+    width: auto;
+    margin-top: -2vh;
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* display: flex; */
+    /* align-items: center; */
+}
+
+h1 {
+    width: 54vw;
+    margin-top: 20vh;
+    margin-left: 4vw;
+    font-size: 3vh;
+    text-align: initial;
+    font-style: italic;
+}
+
+.bob {
+    /* margin-left: 38vw; */
+    font-size: larger;
+}
+
+.presentation {
+text-align: initial;
+width: 55vw;
+font-size: 3vh;
+margin-left: 4vw;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+
+
+@media screen and (max-width:762px) {
+    h1 {
+        display: none;
+    }   
+    .bob {
+        display: none;
+    }
+    .presentation {
+      width: 60vw;
+    }
+}
+
+.BeatsButton {
+    width: 13vw;
+    height: 5vh;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    font-size: 3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+}
+
+.BeatsButton{
+  background: #333;
+  color: #ccc;
+  width: 200px;
+  height: 60px;
+  border: 0;
+  font-size: 18px;
+  border-radius: 4px;
+  font-family: 'Raleway', sans-serif;
+  transition: .6s;
+  overflow: hidden;
+}
+ .BeatsButton:focus{
+    outline: 0;
+  }
+
+  .BeatsButton:hover{
+    background: grey;
+    cursor: pointer;
+  }
+    .BeatsButton:before{
+      transform: translateX(300px)  skewX(-15deg);  
+      opacity: 0.6;
+      transition: .7s;
+    }
+    .BeatsButton:after{
+      transform: translateX(300px) skewX(-15deg);  
+      opacity: 1;
+      transition: .7s;
+    }
+  
