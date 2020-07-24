@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Beats/static/css/main.882faaec.chunk.css",
+    "main.js": "/Beats/static/js/main.0e923ce2.chunk.js",
+    "main.js.map": "/Beats/static/js/main.0e923ce2.chunk.js.map",
+    "runtime-main.js": "/Beats/static/js/runtime-main.07aabf66.js",
+    "runtime-main.js.map": "/Beats/static/js/runtime-main.07aabf66.js.map",
+    "static/js/2.1ae4a90b.chunk.js": "/Beats/static/js/2.1ae4a90b.chunk.js",
+    "static/js/2.1ae4a90b.chunk.js.map": "/Beats/static/js/2.1ae4a90b.chunk.js.map",
+    "index.html": "/Beats/index.html",
+    "precache-manifest.1b818ce1e4b50dd64ae673ed2b490ffa.js": "/Beats/precache-manifest.1b818ce1e4b50dd64ae673ed2b490ffa.js",
+    "service-worker.js": "/Beats/service-worker.js",
+    "static/css/main.882faaec.chunk.css.map": "/Beats/static/css/main.882faaec.chunk.css.map",
+    "static/js/2.1ae4a90b.chunk.js.LICENSE.txt": "/Beats/static/js/2.1ae4a90b.chunk.js.LICENSE.txt",
+    "static/media/Music.css": "/Beats/static/media/beats.93eb6d3c.jpg",
+    "static/media/Contact.css": "/Beats/static/media/gmail.a1492555.png",
+    "static/media/Homepage.css": "/Beats/static/media/photo-1459233313842-cd392ee2c388.66e3f378.jpeg",
+    "static/media/Toolbar.css": "/Beats/static/media/photo-1499415479124-43c32433a620.70d55126.jpeg",
+    "static/media/SideDrawer.css": "/Beats/static/media/photo-1525362081669-2b476bb628c3.2be486c6.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07aabf66.js",
+    "static/js/2.1ae4a90b.chunk.js",
+    "static/css/main.882faaec.chunk.css",
+    "static/js/main.0e923ce2.chunk.js"
+  ]
+}
